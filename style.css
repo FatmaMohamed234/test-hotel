@@ -80,7 +80,9 @@ header ul li a:hover {
     cursor: pointer;
     
 }
-
+.font{
+    white-space: nowrap;
+}
 .button {
     transform: translateX(1128px);
 }
