@@ -84,6 +84,7 @@ header ul li a:hover {
 }
 .font{
     white-space: nowrap;
+    font-family: "Caveat", cursive;
 }
 .button {
     transform: translateX(1128px);
