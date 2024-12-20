@@ -133,7 +133,16 @@ header ul li a:hover {
     color: #102039;
     padding: 20px 0;
 }
+.artical {
+    color: #102039;
+    font-size: larger;
+    display: flex;
+    justify-content: left;
+    text-transform: uppercase;
+    margin: 0;
+    margin-bottom: 15px;
 
+  }
 .p {
     padding-bottom: 40px;
 }
